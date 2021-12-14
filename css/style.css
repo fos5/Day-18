@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(65, 65, 121);
+    color: #fff;
+}
+.container{
+    overflow: hidden;
+    margin: auto;
+    width: 50%;
+    box-sizing: border-box;
+}
+.center{
+    text-align: left;
+}
+label{
+    font-size: 20px;
+    padding: 5px;
+}
+img{
+    position: relative;
+    left: -12px;
+    margin: 20px;
+    border: 10px solid #DAA520;
+}
+.slider{
+    width: 75px;
+}
